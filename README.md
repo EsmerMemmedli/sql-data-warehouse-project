@@ -8,11 +8,11 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
 <img width="1469" height="769" alt="image" src="https://github.com/user-attachments/assets/41dece04-f12a-4f05-bf86-92fdf83261ab" />
 
-1.**Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
+**1.Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 
-2.**Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
+**2.Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 
-3.**Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
+**3.Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 
 ## 📖 Project Overview
@@ -25,9 +25,9 @@ This project involves:
 
 🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
 
-SQL Development
-Data Architect
-Data Engineering
-ETL Pipeline Developer
-Data Modeling
-Data Analytics
+•SQL Development
+•Data Architect
+•Data Engineering
+•ETL Pipeline Developer
+•Data Modeling
+•Data Analytics
